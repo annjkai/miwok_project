@@ -5,6 +5,16 @@ Miwok App
 This app displays lists of vocabulary words for the user to learn the Miwok language.
 Used in a Udacity course in the Beginning Android Nanodegree.
 
+Skills
+--------------
+
+In making this app, I learned how to:
+- Plan the structure of an app from (almost) start to finish
+- Work with intents, arrays, custom classes, APIs (e.g. MediaPlayer) and fragments, among other things
+- Clean up app files to make them easier to navigate
+
+It was also my first time working with GitHub/git - I learned how to work with the command line to create and merge repositories.
+
 Pre-requisites
 --------------
 
