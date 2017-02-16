@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 421594d9bdbaf4bf94f2c5b9423df08ba6c99af0
+
 Miwok App
 ===================================
 
@@ -49,10 +46,7 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
-<<<<<<< HEAD
-=======
-=======
+
 # miwok_project
 Repository for the Udacity Miwok app - final code
->>>>>>> 719bdb1bab114564c6a2a3523b656a46c68a7d23
->>>>>>> 421594d9bdbaf4bf94f2c5b9423df08ba6c99af0
+
